@@ -1,7 +1,3 @@
-<!-- ===================== -->
-<!--        HEADER         -->
-<!-- ===================== -->
-
 <div align="center">
 
 ### 🙋‍♀️ **Chiel**
@@ -116,27 +112,27 @@ _“Every line of code is a step forward in my journey.”_
 
 <div align="center">
 
-<img width="360" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=rucielmaeobias2105&count_private=true&theme=react&border_radius=10" />
-
-<img width="360" src="https://github-readme-stats-salesp07.vercel.app/api?username=rucielmaeobias2105&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
+<img width="360" src="https://github-readme-stats-salesp07.vercel.app/api?username=rucielmaeobias2105&count_private=true&show_icons=true&theme=react&title_color=FF2DAA&icon_color=FF5FD2&text_color=FFA3E0&rank_icon=github&border_radius=10" />
 
 <br><br>
 
-<img width="360" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=rucielmaeobias2105&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" />
+<div align="center">
 
-<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=rucielmaeobias2105&limit=5&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=a9b1d6&text_color=c0caf5&combine_all_yearly_contributions=true" />
+<img width="360" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=rucielmaeobias2105&count_private=true&theme=react&ring=FF2DAA&fire=FF5FD2&currStreakLabel=FF2DAA&sideLabels=FF2DAA&dates=FFA3E0&border_radius=10" />
+<img width="360" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=rucielmaeobias2105&hide=HTML&langs_count=8&layout=compact&theme=react&title_color=FF2DAA&text_color=FFA3E0&border_radius=10" />
+<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=rucielmaeobias2105&limit=5&theme=tokyonight&bg_color=1a1b27&title_color=FF2DAA&text_color=FFA3E0&combine_all_yearly_contributions=true" />
 </div>
-
-
 </div>
-
 ---
 
 ## 📈 Contribution Graph
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=rucielmaeobias2105&bg_color=0d1117&color=667eea&line=764ba2&point=667eea&area=true&hide_border=true" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=rucielmaeobias2105&bg_color=0d1117&color=FF2DAA&line=FF5FD2&point=FFA3E0&area=true&hide_border=true" />
+<div align="center">
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=rucielmaeobias2105&bg_color=0d1117&color=FF2DAA&line=FF5FD2&point=FFA3E0&area=true&hide_border=true" />
+</div>
 
 </div>
 
@@ -176,6 +172,6 @@ Special thanks to the amazing open-source community! 🙏
 
 <div align="center">
 
-Made with 💜 by **Chiel**
+**Chiel**
 
 </div>
