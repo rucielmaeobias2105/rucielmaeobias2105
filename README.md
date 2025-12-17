@@ -130,9 +130,6 @@ _“Every line of code is a step forward in my journey.”_
 <div align="center">
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=rucielmaeobias2105&bg_color=0d1117&color=FF2DAA&line=FF5FD2&point=FFA3E0&area=true&hide_border=true" />
-<div align="center">
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=rucielmaeobias2105&bg_color=0d1117&color=FF2DAA&line=FF5FD2&point=FFA3E0&area=true&hide_border=true" />
-</div>
 
 </div>
 
